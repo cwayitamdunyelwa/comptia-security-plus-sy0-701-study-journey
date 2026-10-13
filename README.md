@@ -47,6 +47,5 @@ This repository documents my journey toward earning the CompTIA Security+ (SY0-7
 
 ## Connect With Me
 
-GitHub:
+GitHub: https://github.com/cwayitamdunyelwa/comptia-security-plus-sy0-701-study-journey
 
-- 

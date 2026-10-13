@@ -1,0 +1,10 @@
+comptia-security-plus-sy0-701-study-journey/
+|
+|--- README.MD
+|--- notes/
+|    |--- domain-1/
+|    |--- domain-2/
+|    |--- domain-3/
+|    |--- domain-4/
+|    |___ domain-5/
+|

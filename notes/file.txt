@@ -1,0 +1,7 @@
+notes/
+├── README.md
+├── domain-1-general-security-concepts.md
+├── domain-2-threats-vulnerabilities-mitigations.md
+├── domain-3-security-architecture.md
+├── domain-4-security-operations.md
+└── domain-5-security-program-management-oversight.md

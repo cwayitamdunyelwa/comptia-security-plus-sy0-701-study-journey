@@ -32,7 +32,7 @@ This repository documents my journey toward earning the CompTIA Security+ (SY0-7
 |--- cheat-sheets/
 |--- weekly-progress/
 |--- screenshots/
-|--- projects/
+|___ projects/
 
 ## Labs Completed
 
